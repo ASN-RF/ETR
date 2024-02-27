@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <style>
+      p { text-indent: 25px; text-align: justify;}
+      table {table-layout: fixed}
+    </style>
+  </head>
+  <body>
+  <h1 align="center"> АО "ТОДЭП"</h1>
+     <h2><p>
+      ТОДЭП - будущее тюменских автодорог! Мы трудимся на благо процветания Тюменской области, чтобы в любое время года и суток можно было безопасно проехать к населенным пунктам, которые соединяются с районными центрами и городами.
+    </p></h2>
+    <h2><p>
+      Важное значение для эффективной работы занимает выбор поставщиков товаров, работ и услуг, требуемых для осуществления основной деятельности. В основе выбора поставщиков, лежат принципы публичности и прозрачности закупочных процессов. Для удобства поставщиков на электронной торговой площадке «Электронные торги России», была создана отдельная торговая секция АО «ТОДЭП», с условиями участия, в закупочных процедурах можно ознакомиться ниже:
+      <h2><p>
+      <table width="100%" border="1" style="display: inlineinline">
+      <tr width="880000">
+      <td align="center", >НМЦК(Д)</td>
+      <td align="center">Все способы определения поставщика</td>
+      <td align="center">Электронный магазин</td></tr> 
+      <tr>
+      <td align="center">Заказчик определил НМЦК(Д)*</td>
+      <td align="center", width="200%"><b>0,5 %</b>,<br><small><i>но не менее 8800,00 и не более 150 000,00 рублей.</i></small></td>
+      <td align="center"><b>1 %</b></td></tr> 
+      <td align="center">Заказчик <b>НЕ</b> определил НМЦК(Д)*</td>
+      <td align="center"><b>12 000,00 рублей</b></td>
+      <td align="center"><b>1 %</b></td></tr> 
+  </table>
+
+ <i align="center"><small>*НМЦК(Д) – начальная максимальная цена контракта (договора)</small></i>
+ <p> Любой поставщик желающий принять участие в торговых процедурах АО «ТОДЭП», может пройти ускоренную процедуру регистрации на площадке. Для решения любых вопросов по участию в процедуре, регистрации, аккредитации, поставщики могут обращаться на ЭТП "Электронные торги России":</p>
+    
+    
+<table border="1" style="display: inlineinline" >
+      <tr>
+      <td align="center"><i> <img src="https://cdn.icon-icons.com/icons2/1580/PNG/512/2849835-call-cell-communication-interface-multimedia-phone-telephone_108000.png" width="50" height="51" alt="Tell"></i></td>
+      <td>+ 7 (978) 783-95-65.</td></tr> 
+      <tr>
+      <td align="center"><img src="https://cdn.icon-icons.com/icons2/614/PNG/512/email-envelope-outline-shape-with-rounded-corners_icon-icons.com_56530.png" width="50" height="51" alt="email_1"></td>
+      <td>info@torgi82.ru</td></tr> 
+       <tr>
+      <td align="center"><img src="https://cdn.icon-icons.com/icons2/614/PNG/512/email-envelope-outline-shape-with-rounded-corners_icon-icons.com_56530.png" width="50" height="51" alt="email_2"></td>
+      <td>zakupki@torgi82.ru</td></tr> 
+    </table>
+  </body>
+</html>
+
+
